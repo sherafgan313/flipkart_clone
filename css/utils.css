@@ -1,0 +1,28 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    padding: 5px 10px;
+color: white;
+background: var(--main-bg-color);
+border: 2px solid white;
+border-radius: 7px;
+cursor: pointer
+/* cursor pointer haath bn k ata h jb hover krty */
+}
+.my-1{
+    margin: 5px 0;
+}
+.my-2{
+    margin: 26px 0;
+    /* thori bht changing k lye my class use kr skty inspired by Bootstrap */
+}
+
+
+
+.text-center{
+    text-align: center;
+}
